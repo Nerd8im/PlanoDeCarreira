@@ -1,4 +1,4 @@
-# Desenvolvimento Profissional em Tecnologia: Análise de Dados, Automação e Evolução de Carreira
+# Desenvolvimento Profissional em Tecnologia: Análise de Dados, Automação e Desenvolvimento de Software
 
 > **Capítulo Individual — Albert Mariano**
 **Área de carreira do grupo:** Engenharia de Dados
