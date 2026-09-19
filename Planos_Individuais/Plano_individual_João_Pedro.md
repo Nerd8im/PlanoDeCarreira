@@ -512,16 +512,16 @@ carreira.
 > após a análise do perfil. Não foram atribuídas opiniões ou avaliações
 > fictícias.**
 
-## Feedback do integrante 1 — \[NOME\]
+## Feedback do integrante 1 — \[Albert Mariano\]
 
 **Pontos positivos:**  
-\[INSERIR FEEDBACK\]
+\[João Pedro demonstra uma base sólida e promissora no início de sua carreira em tecnologia. Ele une a formação a uma experiência prática valiosa em suporte técnico e atendimento, o que lhe confere uma visão ampla de processos, hardware, software e resolução de problemas voltada para o usuário. Além disso, destaca-se a iniciativa em utilizar o GitHub e o LinkedIn para registrar sua evolução acadêmica, o domínio de ferramentas fundamentais como Python, Pandas, Excel e Power BI, e o diferencial de possuir proficiência em inglês C1\]
 
 **Ponto de desenvolvimento:**  
-\[INSERIR FEEDBACK\]
+\[O principal gap reside na consolidação e expansão da prática técnica avançada e do portfólio público. Atualmente, o perfil no GitHub possui apenas um repositório em andamento e carece de projetos completos e robustos com READMEs detalhados e histórico de commits consistentes. Há também a necessidade urgente de aprofundar conhecimentos em SQL, bancos de dados relacionais, conceitos de ETL e pipelines de dados para atender plenamente às exigências de vagas na área de Dados e Analytics.\]
 
 **Sugestão prática:**  
-\[INSERIR FEEDBACK\]
+\[Para acelerar a empregabilidade, João Pedro deve priorizar a entrega de pelo menos três projetos de análise de dados ponta a ponta nos próximos meses, unindo a extração com Python/Pandas, consultas estruturadas em SQL e a criação de dashboards visuais no Power BI. Cada projeto deve ser rigorosamente documentado no GitHub com um arquivo README claro explicando o problema, o processo e os resultados obtidos. Paralelamente, sugere-se intensificar a rede de contatos no LinkedIn compartilhando essa jornada de construção técnica de forma ativa e consistente.\]
 
 ## Feedback do integrante 2 — \[NOME\]
 
