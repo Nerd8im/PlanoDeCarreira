@@ -152,15 +152,15 @@ A rota estratégica de longo prazo manterá um caráter adaptável. O percurso p
 
 Esta subseção deve ser preenchida pelos demais integrantes do grupo após a análise do perfil. Não foram atribuídas opiniões ou avaliações fictícias.
 
-Feedback do integrante 1 — [NOME]
+Feedback do integrante 1 — [João Pedro Theodoro de Sousa Andrade]
 
 Pontos positivos:
-[INSERIR FEEDBACK]
-Ponto de desenvolvimento:
-[INSERIR FEEDBACK]
-Sugestão prática:
-[INSERIR FEEDBACK]
+O capítulo deixa relativamente claro que o foco inicial é Desenvolvimento de Software / Tecnologia, com possibilidade de aproximação futura com Dados e Engenharia de Dados. Isso evita que o plano fique completamente genérico.Além disso, ideia de utilizar o GitHub como histórico da evolução técnica está bem colocada. A seção também vai além de simplesmente informar o usuário e o link, trazendo ações concretas.
 
+Ponto de desenvolvimento:
+Com relação aos pontos de desenvolvimenro.Na parte referente ao GitHub, o texto menciona que os repositórios “deverão ser analisados”, mas não apresenta efetivamente a quantidade de repositórios públicos, os projetos fixados ou os repositórios com maior número de estrelas. Como a proposta solicita uma análise do perfil, seria interessante apresentar esses dados e explicar brevemente o que cada projeto demonstra em relação às competências profissionais. Da mesma forma, é informado o número atual de seguidores, mas não há uma comparação que permita identificar sua evolução ao longo do tempo. Caso não existam dados históricos, isso pode ser apresentado como uma limitação da análise, indicando que o acompanhamento passará a ser realizado periodicamente. Na análise do LinkedIn, também seria interessante padronizar as informações e registrar a data em que os números foram coletados, principalmente em relação à quantidade de conexões e seguidores. A ausência de publicações pode ser apresentada não apenas como uma característica atual do perfil, mas também como uma oportunidade de desenvolvimento, estabelecendo uma ação concreta, como publicar conteúdos relacionados aos estudos, projetos e aprendizados técnicos.
+Sugestão prática:
+Portanto, a parte de feedback dos colegas pode ser organizada de maneira mais prática, registrando o ponto positivo identificado, o aspecto que pode ser melhorado e uma sugestão concreta de como realizar essa melhoria. De modo geral, o trabalho possui uma boa base, apresenta objetivos profissionais e demonstra preocupação com a construção da presença digital e do desenvolvimento de carreira. O principal ponto de evolução não é necessariamente acrescentar mais conteúdo, mas transformar as informações apresentadas em uma análise mais aprofundada, utilizando dados concretos, comparações, indicadores e ações mensuráveis.
 Feedback do integrante 2 — [NOME]
 
 Pontos positivos:

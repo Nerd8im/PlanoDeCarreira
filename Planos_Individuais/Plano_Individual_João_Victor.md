@@ -507,18 +507,16 @@ A análise do perfil demonstra que já existe uma base acadêmica e profissional
 
 # Feedback
 
-> **Esta subseção deverá ser preenchida pelos demais integrantes do grupo após a análise do perfil.**
-
-## Feedback do integrante 1 — [NOME]
+## Feedback do integrante 1 — [João Pedro Theodoro de Sousa Andrade]
 
 **Pontos positivos:**
-[INSERIR FEEDBACK]
+Falando sobre os pontos positivos o trabalho apresenta uma estrutura bastante completa e demonstra um planejamento profissional bem desenvolvido, principalmente por conseguir relacionar a formação acadêmica, as experiências profissionais anteriores e os objetivos de entrada na área de Tecnologia. Um dos principais pontos positivos é a clareza ao apresentar o estágio em Tecnologia como objetivo inicial e, ao mesmo tempo, indicar diferentes possibilidades de atuação, como Suporte Técnico, Análise de Dados, Engenharia de Dados e Desenvolvimento de Software. A experiência profissional também foi bem aproveitada, pois as atividades realizadas em atendimento, acompanhamento de demandas, resolução de problemas e relacionamento com clientes são relacionadas a competências que podem ser utilizadas no ambiente de Tecnologia.
 
 **Ponto de desenvolvimento:**
-[INSERIR FEEDBACK]
+Como ponto de desenvolvimento, o principal aspecto seria tornar o direcionamento profissional um pouco mais específico. Atualmente são apresentadas quatro áreas de interesse, sendo Suporte Técnico, Análise de Dados, Engenharia de Dados e Desenvolvimento de Software. Isso demonstra flexibilidade, mas também pode transmitir uma imagem de objetivo profissional ainda muito amplo. Seria interessante definir uma área principal para o momento atual e apresentar as demais como possibilidades de especialização ou caminhos futuros. Isso ajudaria a tornar o currículo, LinkedIn e portfólio mais direcionados.
 
 **Sugestão prática:**
-[INSERIR FEEDBACK]
+O trabalho apresenta diversos criterios bons, portanto principal ponto de evolução seria transformar esse planejamento amplo em uma estratégia ainda mais direcionada, definindo uma área profissional prioritária, estabelecendo indicadores mais específicos e aprofundando a análise dos perfis digitais. Com esses ajustes, o trabalho ficaria mais objetivo e demonstraria não apenas onde o estudante pretende chegar, mas também quais ações serão realizadas e como será possível acompanhar sua evolução ao longo da graduação.
 
 ## Feedback do integrante 2 — [NOME]
 
