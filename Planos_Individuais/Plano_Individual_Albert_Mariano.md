@@ -162,7 +162,7 @@ Com relação aos pontos de desenvolvimenro.Na parte referente ao GitHub, o text
 Sugestão prática:
 Portanto, a parte de feedback dos colegas pode ser organizada de maneira mais prática, registrando o ponto positivo identificado, o aspecto que pode ser melhorado e uma sugestão concreta de como realizar essa melhoria. De modo geral, o trabalho possui uma boa base, apresenta objetivos profissionais e demonstra preocupação com a construção da presença digital e do desenvolvimento de carreira. O principal ponto de evolução não é necessariamente acrescentar mais conteúdo, mas transformar as informações apresentadas em uma análise mais aprofundada, utilizando dados concretos, comparações, indicadores e ações mensuráveis.
 
-## Feedback do integrante 4 — [Petterson Aguilar]
+## Feedback do integrante 2 — [Petterson Aguilar]
 
 **Pontos positivos:**  
 O Albert demonstra uma mentalidade focada na engenharia de software tradicional, com um plano bem fundamentado para dominar boas práticas, tais como testes automatizados, padronização de commits e uso de branches. Além disso, reconhecer o valor de certificações em Nuvem (AWS/Azure) no PDI mostra uma visão estratégica de longo prazo para a infraestrutura de TI.
@@ -173,14 +173,16 @@ Como a carreira definida para o nosso grupo é a Engenharia de Dados, o perfil e
 **Sugestão prática:**  
 Aproveite o projeto do jogo em Python (RPG) que você já finalizou[cite: 1] para criar um projeto focado em dados: escreva um script que extraia as métricas ou logs desse jogo (pontuações, tempos, ações dos jogadores), estruture esses dados e os carregue em um banco de dados SQL (como PostgreSQL ou SQLite)[cite: 1]. Isso permitirá que você conecte a lógica de programação que já possui ao ecossistema prático de tratamento e armazenamento de dados[cite: 1, 2].
 
-Feedback do integrante 3 — [NOME]
+### Feedback do integrante 3 — [João Victor de Jesus Silva]
 
-Pontos positivos:
-[INSERIR FEEDBACK]
-Ponto de desenvolvimento:
-[INSERIR FEEDBACK]
-Sugestão prática:
-[INSERIR FEEDBACK]
+**Pontos positivos:**
+O perfil apresenta uma boa preocupação com a construção de uma base em programação e engenharia de software. O plano também demonstra interesse em manter uma evolução contínua por meio de projetos, GitHub, certificações e desenvolvimento de novas competências.
+
+**Ponto de desenvolvimento:**
+Um ponto que poderia ser melhor explorado é a apresentação dos projetos do GitHub. O perfil menciona um projeto de RPG em Python como finalizado, porém não apresenta informações sobre o projeto, seu funcionamento ou os conhecimentos aplicados no desenvolvimento. Dessa forma, não fica claro qual foi o resultado obtido ou como esse projeto contribui para o desenvolvimento profissional apresentado no plano.
+
+**Sugestão prática:**
+Seria interessante adicionar uma descrição mais completa desse projeto no GitHub, incluindo seu objetivo, principais funcionalidades, tecnologias utilizadas e o que foi aprendido durante o desenvolvimento. Caso o projeto esteja realmente finalizado, essas informações ajudariam a demonstrar sua evolução técnica. Caso tenha sido abandonado ou esteja incompleto, seria importante atualizar o status do repositório para representar corretamente sua situação atual.
 
 Feedback do integrante 4 — [NOME]
 
