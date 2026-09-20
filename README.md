@@ -1139,13 +1139,16 @@ carreira, especialmente considerando a área de carreira do grupo
 
 **Sugestão prática:** Aproveitar a experiência administrativa como diferencial durante a transição para TI, destacando conhecimentos relacionados a processos e organização, enquanto busca oportunidades de estágio ou projetos que proporcionem experiência prática diretamente na área de tecnologia.
 
-##### Feedback do integrante 3 — [NOME]
+## Feedback do integrante 3 — [Petterson Aguilar]
 
-**Pontos positivos:** [PREENCHER]
+**Pontos positivos:**  
+O Gabriel demonstra um domínio de Back-end muito acima da média para quem está no início da carreira, comprovado pela qualidade da API REST do TCC (Plantools), que já conta com autenticação JWT, integração com a API do Gemini e documentação no Swagger. Unir essa bagagem de desenvolvimento com a vivência de processos como Aprendiz Administrativo dá a ele uma visão completa de ciclo de software e regras de negócio.
 
-**Ponto de desenvolvimento:** [PREENCHER]
+**Ponto de desenvolvimento:**  
+Pensando no objetivo do nosso grupo em Engenharia de Dados, o perfil do Gabriel está muito forte em desenvolvimento de APIs e aplicações Web, mas precisa dar mais visibilidade à camada de dados pesada. Em Engenharia de Dados, o foco principal migra do desenvolvimento do servidor REST em Node.js para o fluxo dos dados em si: construção de pipelines de ingestão, orquestração, manipulação em massa com Python e modelagem analítica de bancos de dados.
 
-**Sugestão prática:** [PREENCHER]
+**Sugestão prática:**  
+Aproveite a excelente API do Plantools para criar um ecossistema focado em Engenharia de Dados: desenvolva um script em Python que consuma periodicamente os dados dessa API (ou gere um fluxo de logs de uso), trate essas informações e as insira em um banco analítico SQL (ou em um Data Warehouse/Data Lake simulado)[cite: 1]. Isso permitirá que você conecte sua expertise em Node.js/APIs diretamente à construção de pipelines e arquitetura de dados[cite: 1].
 
 ##### Feedback do integrante 4 — [NOME]
 
