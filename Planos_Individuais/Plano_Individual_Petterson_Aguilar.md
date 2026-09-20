@@ -49,7 +49,15 @@
 ### 4. Feedback por Pares
 *(Seção obrigatória reservada para os outros 4 integrantes do grupo registrarem suas avaliações sobre o perfil do Petterson)*ssssssss
 
-- **[Nome do Integrante 1]:** *[Feedback construtivo sobre a qualidade dos perfis digitais, clareza do plano de carreira e viabilidade do PDI]*[cite: 1]
+- **[Albert Mariano]:**
+
+ **Pontos positivos:** O perfil de Petterson demonstra um planejamento de carreira claro e bastante estruturado, articulando com coerência a sua formação em Análise e Desenvolvimento de Sistemas, com o objetivo de transição para a Engenharia de Dados. É destacado a assertividade de sua headline no LinkedIn, que equilibra sua atuação atual em suporte técnico com o foco futuro em dados e um Plano de Desenvolvimento Individual bem desenhado, contendo metas objetivas de curto, médio e longo prazo, além de indicadores de progresso tangíveis.
+ 
+ **Pontos de desenvolvimento:** Embora o PDI apresente metas relevantes como o domínio de manipulação de dados e certificações em nuvem, o portfólio prático no GitHub ainda está em fase de consolidação e precisa ser expandido para demonstrar de forma mais robusta competências técnicas avançadas, como a construção de pipelines ETL e o uso de SQL e Python em cenários reais.]
+
+  **Sugestão pratica:** É recomendado focar na entrega dos projetos práticos propostos no PDI como o desenvolvimento de repositórios públicos no GitHub que integrem o consumo de API’s em Python com bancos de dados relacionais como ‘PostgreSQL’, garantindo uma documentação detalhada via README para elevar a visibilidade técnica perante recrutadores.]
+
+  
 - **[Nome do Integrante 2]:** *[Feedback construtivo com sugestões concretas de melhoria para o portfólio no GitHub]*
 - **[Nome do Integrante 3]:** *[Feedback construtivo sobre o alinhamento do PDI com a área de Engenharia de Dados]*
 - **[Nome do Integrante 4]:** *[Feedback construtivo sobre a presença digital e posicionamento nas redes profissionais]*
