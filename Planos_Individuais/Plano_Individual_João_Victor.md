@@ -529,16 +529,16 @@ O trabalho apresenta diversos criterios bons, portanto principal ponto de evolu�
 **Sugestão prática:**
 [É recomendado definir uma trilha ou área prioritária de entrada para os próximos meses, direcionando a construção do portfólio em HTML e os estudos práticos como Python, Java ou SQL especificamente para esse objetivo. Isso tornará a busca por estágios e a comunicação no LinkedIn mais assertivas.]
 
-## Feedback do integrante 3 — [NOME]
+## Feedback do integrante 3 — [Petterson Aguilar]
 
-**Pontos positivos:**
-[INSERIR FEEDBACK]
+**Pontos positivos:**  
+O João Victor se destaca pela maturidade em reconhecer o valor da sua bagagem em Assistência Administrativa e Atendimento na Hapvida Intermédica, aplicando competências como gestão de prazos, tratamento de demandas críticas e comunicação para a área de Tecnologia. Além disso, a iniciativa de planejar um portfólio web próprio em HTML/CSS para demonstrar seus projetos é um excelente diferencial técnico.
 
-**Ponto de desenvolvimento:**
-[INSERIR FEEDBACK]
+**Ponto de desenvolvimento:**  
+Para o objetivo do nosso grupo em Engenharia de Dados, o João precisará estreitar o leque técnico. Atualmente há muita dispersão entre linguagens de propósitos diferentes (como PHP, Java, GML e JavaScript). Na Engenharia de Dados, o ecossistema exige um foco mais denso e aprofundado na tríade: Python avançado (manipulação de dados), SQL bem consolidado (consultas complexas e modelagem) e conceitos de pipelines (ETL/ELT).
 
-**Sugestão prática:**
-[INSERIR FEEDBACK]
+**Sugestão prática:**  
+Aproveite o conhecimento em Suporte Técnico para criar um projeto focado na resolução de problemas reais de dados: desenvolva um script em Python que simule o consumo e tratamento automático de um log/histórico de chamados de atendimento e salve esses dados estruturados em um banco de dados relacional (ex: PostgreSQL). Isso unirá sua vivência de suporte com a prática essencial de infraestrutura e manipulação de dados que o mercado exige.
 
 
 # Considerações Finais do Perfil Individual
