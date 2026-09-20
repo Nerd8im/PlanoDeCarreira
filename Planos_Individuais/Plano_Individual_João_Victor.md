@@ -518,16 +518,16 @@ Como ponto de desenvolvimento, o principal aspecto seria tornar o direcionamento
 **Sugestão prática:**
 O trabalho apresenta diversos criterios bons, portanto principal ponto de evolução seria transformar esse planejamento amplo em uma estratégia ainda mais direcionada, definindo uma área profissional prioritária, estabelecendo indicadores mais específicos e aprofundando a análise dos perfis digitais. Com esses ajustes, o trabalho ficaria mais objetivo e demonstraria não apenas onde o estudante pretende chegar, mas também quais ações serão realizadas e como será possível acompanhar sua evolução ao longo da graduação.
 
-## Feedback do integrante 2 — [NOME]
+## Feedback do integrante 2 — [Albert Mariano]
 
 **Pontos positivos:**
-[INSERIR FEEDBACK]
+[O plano de desenvolvimento de João Victor apresenta uma estrutura muito completa, demonstrando clareza ao conectar sua formação acadêmica  e experiências corporativas anteriores como atendimento e assistência administrativa, com o objetivo de ingressar na área de tecnologia. Há um reconhecimento valioso de competências comportamentais já desenvolvidas, como organização, resolução de problemas e comunicação com o público.]
 
 **Ponto de desenvolvimento:**
-[INSERIR FEEDBACK]
+[O principal ponto de atenção reside na amplitude do direcionamento profissional, que atualmente abrange quatro áreas distintas Suporte Técnico, Análise de Dados, Engenharia de Dados e Desenvolvimento de Software. Essa diversidade é positiva, mas pode dispersar o foco na criação do portfólio prático e na personalização dos perfis profissionais voltados para recrutadores.]
 
 **Sugestão prática:**
-[INSERIR FEEDBACK]
+[É recomendado definir uma trilha ou área prioritária de entrada para os próximos meses, direcionando a construção do portfólio em HTML e os estudos práticos como Python, Java ou SQL especificamente para esse objetivo. Isso tornará a busca por estágios e a comunicação no LinkedIn mais assertivas.]
 
 ## Feedback do integrante 3 — [NOME]
 
