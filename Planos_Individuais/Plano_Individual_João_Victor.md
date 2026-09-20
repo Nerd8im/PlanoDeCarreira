@@ -540,13 +540,14 @@ Para o objetivo do nosso grupo em Engenharia de Dados, o João precisará estrei
 **Sugestão prática:**  
 Aproveite o conhecimento em Suporte Técnico para criar um projeto focado na resolução de problemas reais de dados: desenvolva um script em Python que simule o consumo e tratamento automático de um log/histórico de chamados de atendimento e salve esses dados estruturados em um banco de dados relacional (ex: PostgreSQL). Isso unirá sua vivência de suporte com a prática essencial de infraestrutura e manipulação de dados que o mercado exige.
 
-## Feedback do integrante 4 — [Coloque seu nome]
+## Feedback do integrante 4 — [Gabriel Anjos Albuquerque]
 
-**Pontos positivos:** 
+**Pontos positivos:** O capítulo se destaca pela honestidade em separar o GitHub acadêmico do futuro portfólio profissional, evitando misturar as duas finalidades. Também é forte a experiência profissional bem descrita (Hapvida e Konika), conectando claramente competências comportamentais reais ao ambiente de Tecnologia.
 
-**Ponto de desenvolvimento:**  
+**Ponto de desenvolvimento:** O direcionamento ainda está muito amplo — quatro áreas de interesse (Suporte, Análise de Dados, Engenharia de Dados e Desenvolvimento) sem uma prioridade clara. Considerando a área de Engenharia de Dados do grupo, a stack também está dispersa entre linguagens de propósitos muito diferentes (PHP, Java, GML, JavaScript), o que dilui o foco técnico necessário.
 
-**Sugestão prática:**  
+**Sugestão prática:** Definir Suporte Técnico como porta de entrada (curto prazo) e já direcionar os próximos projetos do futuro portfólio para Python + SQL + banco de dados, deixando Java/PHP/GML como conhecimentos secundários. Um bom primeiro projeto seria usar a própria experiência na Ouvidoria da Hapvida como inspiração: simular o tratamento de um histórico de chamados com Python e armazenar em um banco SQL, unindo a vivência real de atendimento à prática técnica de dados.
+
 
 # Considerações Finais do Perfil Individual
 
