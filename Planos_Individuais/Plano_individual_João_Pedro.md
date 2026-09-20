@@ -534,16 +534,16 @@ Analisando o objetivo do grupo em Engenharia de Dados, o perfil do João ainda e
 **Sugestão prática:**  
 Sugiro que o João aproveite sua facilidade com Python e Pandas para construir um projeto voltado à Engenharia de Dados no GitHub: criar um script automatizado que extraia dados de uma API pública, realize a limpeza/transformação necessária e alimente um banco de dados PostgreSQL (em vez de focar apenas no dashboard do Power BI). Também recomendo adicionar ao README.md desse projeto um diagrama simples explicando como o pipeline funciona de ponta a ponta.
 
-## Feedback do integrante 3 — \[NOME\]
+## Feedback do integrante 3 — \[João Victor]
 
 **Pontos positivos:**  
-\[INSERIR FEEDBACK\]
+Apresenta uma trajetória coerente entre sua formação em ADS, sua experiência profissional em suporte técnico e seu interesse crescente pela área de Dados. A experiência com atendimento, hardware, software e processos corporativos representa um diferencial importante, pois demonstra contato com problemas reais e capacidade de compreender necessidades dos usuários. Também se destaca a iniciativa de desenvolver conhecimentos em Python, Pandas, SQL, Excel e Power BI, além de utilizar GitHub e LinkedIn para registrar sua evolução profissional. O conhecimento de inglês em nível C1 também amplia as possibilidades de acesso a materiais técnicos e oportunidades que exigem comunicação em inglês.
 
 **Ponto de desenvolvimento:**  
-\[INSERIR FEEDBACK\]
+O principal ponto de desenvolvimento está na necessidade de aproximar o portfólio e os conhecimentos atuais do objetivo de longo prazo em Engenharia de Dados. Atualmente, o perfil apresenta maior concentração em análise de dados, Power BI e Excel, enquanto os conhecimentos necessários para trabalhar diretamente com engenharia de dados ainda estão em desenvolvimento, especialmente bancos de dados, SQL, ETL/ELT, pipelines e Cloud Computing. Além disso, a quantidade atual de projetos públicos no GitHub ainda é pequena para demonstrar de forma ampla a evolução técnica e a capacidade de desenvolver soluções completas.
 
 **Sugestão prática:**  
-\[INSERIR FEEDBACK\]
+Uma estratégia interessante seria desenvolver um projeto completo que conecte as competências que João Pedro já possui com os conhecimentos que precisa desenvolver. Por exemplo, poderia ser criado um pipeline utilizando Python para coletar dados de uma API pública, realizar a limpeza e transformação dos dados com Pandas, armazená-los em PostgreSQL utilizando SQL e, posteriormente, disponibilizar os dados para análise em Power BI. O projeto poderia ser documentado no GitHub com um README contendo o problema abordado, tecnologias utilizadas, etapas do pipeline, estrutura do banco de dados e resultados obtidos. Dessa forma, seria possível demonstrar não apenas conhecimento de ferramentas isoladas, mas a capacidade de construir uma solução de dados de ponta a ponta.
 
 ## Síntese dos feedbacks
 
