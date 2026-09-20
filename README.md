@@ -1131,13 +1131,13 @@ carreira, especialmente considerando a área de carreira do grupo
 
 **Sugestão prática:** Como sugestão prática, recomendo publicar no GitHub os projetos que ainda estão fora da plataforma, manter os repositórios com READMEs bem estruturados e desenvolver pelo menos um projeto completo que envolva coleta de dados, tratamento com Python, armazenamento em banco de dados e consultas em SQL. Além disso, compartilhar esses projetos e aprendizados no LinkedIn ajudaria a tornar sua evolução técnica mais visível para recrutadores e profissionais da área.
 
-##### Feedback do integrante 2 — [NOME]
+##### Feedback do integrante 2 — [João Victor de Jesus Silva]
 
-**Pontos positivos:** [PREENCHER]
+**Pontos positivos:** O plano apresenta uma boa conexão com o ambiente profissional, pois ele já possui experiência como Aprendiz Administrativo. Isso é interessante porque proporciona contato com processos, organização e sistemas corporativos, criando uma base profissional que pode facilitar sua transição e entrada na área de TI.
 
-**Ponto de desenvolvimento:** [PREENCHER]
+**Ponto de desenvolvimento:** Apesar dessa experiência profissional, ainda existe uma distância entre as atividades administrativas atuais e a área de Tecnologia/Dados que ele pretende seguir. O próprio plano identifica a falta de experiência profissional diretamente relacionada a TI/Dados como um dos principais gaps.
 
-**Sugestão prática:** [PREENCHER]
+**Sugestão prática:** Aproveitar a experiência administrativa como diferencial durante a transição para TI, destacando conhecimentos relacionados a processos e organização, enquanto busca oportunidades de estágio ou projetos que proporcionem experiência prática diretamente na área de tecnologia.
 
 ##### Feedback do integrante 3 — [NOME]
 
