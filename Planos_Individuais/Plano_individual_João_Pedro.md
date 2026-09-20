@@ -523,16 +523,16 @@ carreira.
 **Sugestão prática:**  
 \[Para acelerar a empregabilidade, João Pedro deve priorizar a entrega de pelo menos três projetos de análise de dados ponta a ponta nos próximos meses, unindo a extração com Python/Pandas, consultas estruturadas em SQL e a criação de dashboards visuais no Power BI. Cada projeto deve ser rigorosamente documentado no GitHub com um arquivo README claro explicando o problema, o processo e os resultados obtidos. Paralelamente, sugere-se intensificar a rede de contatos no LinkedIn compartilhando essa jornada de construção técnica de forma ativa e consistente.\]
 
-## Feedback do integrante 2 — \[NOME\]
+## Feedback do integrante 2 — [Petterson Aguilar]
 
 **Pontos positivos:**  
-\[INSERIR FEEDBACK\]
+O João demonstra um diferencial muito forte ao combinar a vivência prática em Suporte Técnico/Hardware com o aprendizado de Análise de Dados e ADS. Essa bagagem operacional dá a ele uma excelente noção de processos e causa-raiz de problemas. Além disso, ter o inglês C1 e demonstrar interesse por entender fundamentos de programação (como o exercício em C) mostra um raciocínio lógico bem estruturado e grande capacidade de aprendizado.
 
 **Ponto de desenvolvimento:**  
-\[INSERIR FEEDBACK\]
+Analisando o objetivo do grupo em Engenharia de Dados, o perfil do João ainda está muito inclinado para Análise de Dados e BI tradicional (Power BI e Excel). Para alinhar seu perfil à Engenharia de Dados, o foco precisará migrar do consumo e visualização para a infraestrutura e arquitetura: aprofundamento em bancos de dados relacionais e não-relacionais, orquestração de pipelines (ETL/ELT), scripts de automação robustos e fundamentos de Cloud Computing.
 
 **Sugestão prática:**  
-\[INSERIR FEEDBACK\]
+Sugiro que o João aproveite sua facilidade com Python e Pandas para construir um projeto voltado à Engenharia de Dados no GitHub: criar um script automatizado que extraia dados de uma API pública, realize a limpeza/transformação necessária e alimente um banco de dados PostgreSQL (em vez de focar apenas no dashboard do Power BI). Também recomendo adicionar ao README.md desse projeto um diagrama simples explicando como o pipeline funciona de ponta a ponta.
 
 ## Feedback do integrante 3 — \[NOME\]
 
