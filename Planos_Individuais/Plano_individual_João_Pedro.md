@@ -545,14 +545,17 @@ O principal ponto de desenvolvimento está na necessidade de aproximar o portfó
 **Sugestão prática:**  
 Uma estratégia interessante seria desenvolver um projeto completo que conecte as competências que João Pedro já possui com os conhecimentos que precisa desenvolver. Por exemplo, poderia ser criado um pipeline utilizando Python para coletar dados de uma API pública, realizar a limpeza e transformação dos dados com Pandas, armazená-los em PostgreSQL utilizando SQL e, posteriormente, disponibilizar os dados para análise em Power BI. O projeto poderia ser documentado no GitHub com um README contendo o problema abordado, tecnologias utilizadas, etapas do pipeline, estrutura do banco de dados e resultados obtidos. Dessa forma, seria possível demonstrar não apenas conhecimento de ferramentas isoladas, mas a capacidade de construir uma solução de dados de ponta a ponta.
 
-## Feedback do integrante 4 — [Coloque seu nome]
+## Feedback do integrante 4 — Gabriel Anjos Albuquerque
 
 **Pontos positivos:** 
+  Base bem estruturada, unindo a formação em ADS à experiência prática em suporte técnico. O domínio já demonstrado em Python, Pandas, SQL e Power BI, somado ao inglês C1, é um diferencial forte para as vagas visadas.
 
 **Ponto de desenvolvimento:**  
+O portfólio ainda está muito enxuto (1 repositório) para o volume de conhecimento descrito no texto. Falta também dar um passo além do consumo de dados (Power BI/Excel) em direção à infraestrutura que a área de Engenharia de Dados do grupo exige SQL mais avançado, modelagem de banco de dados e noções de ETL.
 
 **Sugestão prática:**  
-
+  Publicar no GitHub o projeto de cancelamento de assinaturas já citado no texto, com README documentando problema, processo e resultado. Em seguida, evoluir esse mesmo projeto adicionando uma etapa de carga em um banco SQL (ex: PostgreSQL), transformando-o num pipeline simples de ponta a ponta, isso já resolve boa parte dos gaps de portfólio e de alinhamento com Engenharia de Dados de uma vez.
+  
 ## Síntese dos feedbacks
 
 \[Após receber os feedbacks dos integrantes, registrar aqui os
