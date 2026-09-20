@@ -58,6 +58,13 @@
   **Sugestão pratica:** É recomendado focar na entrega dos projetos práticos propostos no PDI como o desenvolvimento de repositórios públicos no GitHub que integrem o consumo de API’s em Python com bancos de dados relacionais como ‘PostgreSQL’, garantindo uma documentação detalhada via README para elevar a visibilidade técnica perante recrutadores.]
 
   
-- **[Nome do Integrante 2]:** *[Feedback construtivo com sugestões concretas de melhoria para o portfólio no GitHub]*
+- **[João Victor]:**
+
+**Pontos positivos:** O perfil do Petterson apresenta um objetivo profissional claro e um PDI com metas bem definidas, principalmente em relação ao desenvolvimento de conhecimentos em Python, SQL, bancos de dados e Cloud. Também é positivo o fato de o plano apresentar prazos e indicadores para acompanhar a evolução.
+
+**Ponto de desenvolvimento:** O plano de carreira parece muito direto em relação ao caminho até a Engenharia de Dados. A sequência entre Suporte Técnico, Engenharia de Dados Júnior e posteriormente Pleno/Sênior é clara, mas faltam algumas etapas intermediárias que mostrem como essa transição será realizada.
+
+**Sugestão prática:** Seria interessante detalhar melhor essas etapas, incluindo a evolução dos conhecimentos em SQL, bancos de dados, Python, ETL e Cloud, além da construção de projetos práticos. Assim, o plano demonstraria não apenas o objetivo final, mas também os principais passos necessários para chegar até ele.
+
 - **[Nome do Integrante 3]:** *[Feedback construtivo sobre o alinhamento do PDI com a área de Engenharia de Dados]*
 - **[Nome do Integrante 4]:** *[Feedback construtivo sobre a presença digital e posicionamento nas redes profissionais]*
