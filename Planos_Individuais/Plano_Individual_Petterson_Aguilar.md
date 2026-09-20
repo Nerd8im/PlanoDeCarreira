@@ -73,4 +73,10 @@
 
 **Sugestão prática:**Ainda mais, seria interessante desenvolver projetos no GitHub envolvendo coleta, tratamento e armazenamento de dados com Python, Pandas, SQL e PostgreSQL, documentando de forma clara cada etapa do projeto no README.
 
-- **[Nome do Integrante 4]:** *[Feedback construtivo sobre a presença digital e posicionamento nas redes profissionais]*
+- **[Gabriel Anjos Albuquerque]:**
+**Pontos positivos:** O perfil já apresenta um posicionamento coerente entre a formação em ADS e a experiência em suporte técnico, com a headline equilibrando bem a atuação atual e o objetivo futuro em dados. O PDI é um ponto forte: as metas são objetivas, com prazos e indicadores claros, e a Meta 2 de buscar a certificação AWS Cloud Practitioner mostra visão de mercado já nesta fase inicial.
+
+**Ponto de desenvolvimento:** Os repositórios públicos ainda são descritos de forma genérica (fundamentos, lógica, estruturas básicas), sem indicar nomes, objetivos ou tecnologias específicas de cada projeto — isso dificulta avaliar de fato a maturidade técnica do portfólio. Também faltam números concretos na "Evolução de Seguidores" e no "Crescimento da Rede" do LinkedIn, que hoje estão descritos apenas qualitativamente.
+
+**Sugestão prática:** Detalhar a tabela de repositórios com nome, objetivo, tecnologias e situação de cada projeto (como fizeram os demais colegas), e registrar os números atuais de seguidores/conexões como linha de base para acompanhamento nas próximas entregas. Isso deixaria a análise tão concreta quanto o restante do PDI já é.
+*[Feedback construtivo sobre a presença digital e posicionamento nas redes profissionais]*
