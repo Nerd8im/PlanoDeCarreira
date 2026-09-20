@@ -161,14 +161,17 @@ Ponto de desenvolvimento:
 Com relação aos pontos de desenvolvimenro.Na parte referente ao GitHub, o texto menciona que os repositórios “deverão ser analisados”, mas não apresenta efetivamente a quantidade de repositórios públicos, os projetos fixados ou os repositórios com maior número de estrelas. Como a proposta solicita uma análise do perfil, seria interessante apresentar esses dados e explicar brevemente o que cada projeto demonstra em relação às competências profissionais. Da mesma forma, é informado o número atual de seguidores, mas não há uma comparação que permita identificar sua evolução ao longo do tempo. Caso não existam dados históricos, isso pode ser apresentado como uma limitação da análise, indicando que o acompanhamento passará a ser realizado periodicamente. Na análise do LinkedIn, também seria interessante padronizar as informações e registrar a data em que os números foram coletados, principalmente em relação à quantidade de conexões e seguidores. A ausência de publicações pode ser apresentada não apenas como uma característica atual do perfil, mas também como uma oportunidade de desenvolvimento, estabelecendo uma ação concreta, como publicar conteúdos relacionados aos estudos, projetos e aprendizados técnicos.
 Sugestão prática:
 Portanto, a parte de feedback dos colegas pode ser organizada de maneira mais prática, registrando o ponto positivo identificado, o aspecto que pode ser melhorado e uma sugestão concreta de como realizar essa melhoria. De modo geral, o trabalho possui uma boa base, apresenta objetivos profissionais e demonstra preocupação com a construção da presença digital e do desenvolvimento de carreira. O principal ponto de evolução não é necessariamente acrescentar mais conteúdo, mas transformar as informações apresentadas em uma análise mais aprofundada, utilizando dados concretos, comparações, indicadores e ações mensuráveis.
-Feedback do integrante 2 — [NOME]
 
-Pontos positivos:
-[INSERIR FEEDBACK]
-Ponto de desenvolvimento:
-[INSERIR FEEDBACK]
-Sugestão prática:
-[INSERIR FEEDBACK]
+## Feedback do integrante 4 — [Petterson Aguilar]
+
+**Pontos positivos:**  
+O Albert demonstra uma mentalidade focada na engenharia de software tradicional, com um plano bem fundamentado para dominar boas práticas, tais como testes automatizados, padronização de commits e uso de branches. Além disso, reconhecer o valor de certificações em Nuvem (AWS/Azure) no PDI mostra uma visão estratégica de longo prazo para a infraestrutura de TI.
+
+**Ponto de desenvolvimento:**  
+Como a carreira definida para o nosso grupo é a Engenharia de Dados, o perfil e a stack do Albert precisam de uma convergência mais rápida para a área. Atualmente, sua stack abrange tópicos gerais (como C e HTML). Para alinhar seu portfólio às exigências de Engenharia de Dados[cite: 1], o foco técnico deve priorizar o aprofundamento em SQL (modelagem e consultas), manipulação de dados com Python (Pandas/PySpark) e conceitos de pipelines ETL[cite: 1].
+
+**Sugestão prática:**  
+Aproveite o projeto do jogo em Python (RPG) que você já finalizou[cite: 1] para criar um projeto focado em dados: escreva um script que extraia as métricas ou logs desse jogo (pontuações, tempos, ações dos jogadores), estruture esses dados e os carregue em um banco de dados SQL (como PostgreSQL ou SQLite)[cite: 1]. Isso permitirá que você conecte a lógica de programação que já possui ao ecossistema prático de tratamento e armazenamento de dados[cite: 1, 2].
 
 Feedback do integrante 3 — [NOME]
 
