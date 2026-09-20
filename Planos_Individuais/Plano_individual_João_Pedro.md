@@ -545,6 +545,14 @@ O principal ponto de desenvolvimento está na necessidade de aproximar o portfó
 **Sugestão prática:**  
 Uma estratégia interessante seria desenvolver um projeto completo que conecte as competências que João Pedro já possui com os conhecimentos que precisa desenvolver. Por exemplo, poderia ser criado um pipeline utilizando Python para coletar dados de uma API pública, realizar a limpeza e transformação dos dados com Pandas, armazená-los em PostgreSQL utilizando SQL e, posteriormente, disponibilizar os dados para análise em Power BI. O projeto poderia ser documentado no GitHub com um README contendo o problema abordado, tecnologias utilizadas, etapas do pipeline, estrutura do banco de dados e resultados obtidos. Dessa forma, seria possível demonstrar não apenas conhecimento de ferramentas isoladas, mas a capacidade de construir uma solução de dados de ponta a ponta.
 
+## Feedback do integrante 4 — [Coloque seu nome]
+
+**Pontos positivos:** 
+
+**Ponto de desenvolvimento:**  
+
+**Sugestão prática:**  
+
 ## Síntese dos feedbacks
 
 \[Após receber os feedbacks dos integrantes, registrar aqui os

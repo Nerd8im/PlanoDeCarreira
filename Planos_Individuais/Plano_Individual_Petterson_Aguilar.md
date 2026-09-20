@@ -47,7 +47,6 @@
 ---
 
 ### 4. Feedback por Pares
-*(Seção obrigatória reservada para os outros 4 integrantes do grupo registrarem suas avaliações sobre o perfil do Petterson)*ssssssss
 
 - **[Albert Mariano]:**
 
@@ -66,5 +65,12 @@
 
 **Sugestão prática:** Seria interessante detalhar melhor essas etapas, incluindo a evolução dos conhecimentos em SQL, bancos de dados, Python, ETL e Cloud, além da construção de projetos práticos. Assim, o plano demonstraria não apenas o objetivo final, mas também os principais passos necessários para chegar até ele.
 
-- **[Nome do Integrante 3]:** *[Feedback construtivo sobre o alinhamento do PDI com a área de Engenharia de Dados]*
+- **[João Pedro Theodoro de Sousa Andrade ]:** 
+**Pontos positivos:** O perfil profissional esta bem direcionado, conseguindo relacionar sua experiência atual em suporte técnico com o objetivo de migrar futuramente para a área de Engenharia de Dados. Seu plano de carreira apresenta uma evolução coerente, partindo do fortalecimento de conhecimentos em Python, SQL e Git até chegar a competências mais específicas da área de dados. Como ponto de desenvolvimento, seria importante aprofundar os conhecimentos em bancos de dados, modelagem de dados e construção de pipelines ETL/ELT, competências essenciais para uma futura atuação como Engenheiro de Dados. Como sugestão prática, recomenda-se o desenvolvimento de projetos no GitHub envolvendo coleta, tratamento e armazenamento de dados com Python, Pandas, SQL e PostgreSQL, sempre acompanhados de uma boa documentação no README.
+
+**Ponto de desenvolvimento:** 
+Uma recomendação, seria aprofundar seus conhecimentos em bancos de dados, modelagem de dados e construção de pipelines ETL/ELT, além de buscar maior familiaridade com ferramentas utilizadas no mercado de Engenharia de Dados
+
+**Sugestão prática:**
+Ainda mais, seria interessante desenvolver projetos no GitHub envolvendo coleta, tratamento e armazenamento de dados com Python, Pandas, SQL e PostgreSQL, documentando de forma clara cada etapa do projeto no README.
 - **[Nome do Integrante 4]:** *[Feedback construtivo sobre a presença digital e posicionamento nas redes profissionais]*
