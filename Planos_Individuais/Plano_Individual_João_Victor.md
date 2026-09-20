@@ -543,4 +543,8 @@ Aproveite o conhecimento em Suporte Técnico para criar um projeto focado na res
 
 # Considerações Finais do Perfil Individual
 
+A análise do perfil individual demonstra que já existe uma base acadêmica, profissional e técnica construída, formada pela graduação em Análise e Desenvolvimento de Sistemas, pela formação técnica em Desenvolvimento de Sistemas e pelas experiências profissionais anteriores. Essas experiências contribuíram não apenas para o desenvolvimento de conhecimentos técnicos, mas também para competências como organização, comunicação, acompanhamento de demandas, resolução de problemas e cumprimento de prazos, que podem ser aplicadas ao ambiente de Tecnologia.
 
+Os feedbacks recebidos destacam como principal ponto de desenvolvimento a necessidade de tornar o direcionamento profissional mais específico. Atualmente, existe interesse em Suporte Técnico, Análise de Dados, Engenharia de Dados e Desenvolvimento de Software. Embora essa diversidade represente diferentes possibilidades de carreira, a definição de uma área prioritária permitirá direcionar melhor os estudos, o portfólio, o currículo e a apresentação profissional.
+
+Considerando os interesses apresentados e os conhecimentos que deverão ser aprofundados, a Engenharia de Dados surge como uma possibilidade de especialização a ser explorada ao longo da graduação. Para isso, será necessário concentrar progressivamente o desenvolvimento técnico em competências relacionadas a Python, SQL, bancos de dados, automação e posteriormente pipelines de dados e tecnologias de processamento. As demais áreas não precisam ser abandonadas, podendo permanecer como possibilidades profissionais e fontes de experiência para a construção da carreira.
