@@ -184,15 +184,13 @@ Um ponto que poderia ser melhor explorado é a apresentação dos projetos do Gi
 **Sugestão prática:**
 Seria interessante adicionar uma descrição mais completa desse projeto no GitHub, incluindo seu objetivo, principais funcionalidades, tecnologias utilizadas e o que foi aprendido durante o desenvolvimento. Caso o projeto esteja realmente finalizado, essas informações ajudariam a demonstrar sua evolução técnica. Caso tenha sido abandonado ou esteja incompleto, seria importante atualizar o status do repositório para representar corretamente sua situação atual.
 
-Feedback do integrante 4 — [NOME]
+Feedback do integrante 4 — [Gabriel Anjos Albuquerque]
 
-Pontos positivos:
-[INSERIR FEEDBACK]
-Ponto de desenvolvimento:
-[INSERIR FEEDBACK]
-Sugestão prática:
-[INSERIR FEEDBACK]
-Síntese dos feedbacks
+**Pontos positivos:** O texto é transparente ao assumir limitações (perfil ainda sem publicações no LinkedIn, poucos repositórios), o que facilita direcionar melhorias reais. O PDI também se destaca por já prever certificações de Cloud (Oracle, AWS, Azure), indo além do básico esperado nesta fase.
+
+**Ponto de desenvolvimento:** Assim como já apontado pelos colegas, a stack (C, HTML, Alemão básico) ainda está distante da área de Engenharia de Dados definida pelo grupo. O único repositório citado (RPG em Python) não tem nenhuma relação com dados, o que deixa o "Plano de Carreira e PDI" um pouco desconectado do objetivo de longo prazo mencionado no texto.
+
+**Sugestão prática:** Priorizar, nas próximas metas de curto prazo, um projeto que já use SQL junto do Python (como sugerido pelo Petterson, extraindo dados do próprio RPG para um banco), e trocar uma das metas de "Inglês/Alemão" por uma meta específica de banco de dados — isso alinharia o PDI ao mesmo eixo técnico que o restante do grupo já está seguindo.
 
 [Após receber os feedbacks dos integrantes, registrar aqui os principais pontos em comum e as ações incorporadas ao PDI.]
 
