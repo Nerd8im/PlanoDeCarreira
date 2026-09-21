@@ -1150,13 +1150,13 @@ Pensando no objetivo do nosso grupo em Engenharia de Dados, o perfil do Gabriel 
 **Sugestão prática:**  
 Aproveite a excelente API do Plantools para criar um ecossistema focado em Engenharia de Dados: desenvolva um script em Python que consuma periodicamente os dados dessa API (ou gere um fluxo de logs de uso), trate essas informações e as insira em um banco analítico SQL (ou em um Data Warehouse/Data Lake simulado)[cite: 1]. Isso permitirá que você conecte sua expertise em Node.js/APIs diretamente à construção de pipelines e arquitetura de dados[cite: 1].
 
-##### Feedback do integrante 4 — [NOME]
+##### Feedback do integrante 4 — [Albert dos Santos Mariano]
 
-**Pontos positivos:** [PREENCHER]
+**Pontos positivos:** [Gabriel demonstra uma excelente base técnica inicial, impulsionada por sua formação em Informática para Internet e pelo desenvolvimento de um TCC sólido, que contempla um ecossistema completo com Node.js, Express, MySQL, JWT, Swagger e integração com IA. Além disso, o perfil destaca a busca ativa por transição de carreira, combinando competências em programação (JavaScript, Python, SQL) com a experiência profissional prática como Aprendiz Administrativo, o que favorece uma visão integrada de processos corporativos.]
 
-**Ponto de desenvolvimento:** [PREENCHER]
+**Ponto de desenvolvimento:** [Apesar da qualidade do projeto de TCC, o portfólio público no GitHub e a presença profissional no LinkedIn ainda estão em fase inicial de estruturação, apresentando uma quantidade reduzida de repositórios públicos e baixa interatividade na rede social. Há também lacunas técnicas naturais para o início da trajetória em dados, como a necessidade de aprofundamento prático em SQL avançado, modelagem de dados, ferramenta Power BI e conceitos de ETL/pipelines.]
 
-**Sugestão prática:** [PREENCHER]
+**Sugestão prática:** [É recomendado priorizar a publicação imediata dos projetos desenvolvidos fora do GitHub, como a aplicação em Python e os modelos de banco de dados, estruturando-os com arquivos README detalhados. Paralelamente, focar na execução do PDI com metas direcionadas à criação de projetos de análise de dados e ao aprimoramento constante do perfil no LinkedIn por meio da divulgação da transição de carreira.]
 
 #### 3.9 Considerações Finais do Perfil Individual
 A trajetória apresentada demonstra um profissional em formação que já
