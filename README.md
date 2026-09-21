@@ -225,6 +225,9 @@ O progresso central do perfil no GitHub passa por ampliar a quantidade e o níve
 •   Adicionar testes automatizados.
 
 #### Análise do LinkedIn
+
+ ****Perfil:**** https://www.linkedin.com/in/albert-mariano-560867344/
+
 ****Cargo-Alvo e Stack****
 
 ****Cargo-alvo inicial:**** Desenvolvedor de Software / Estágio em Tecnologia / Posições de Entrada na Área Tech
@@ -362,7 +365,8 @@ A rota estratégica de longo prazo manterá um caráter adaptável. O percurso p
 5\.  Aprofundamento em certificações: Foco em obter certificações para evoluir profissionalmente e adicionar ao currículo, alguns cursos envolvem Oracle, AWS e Azure, cursos mais técnicos compatíveis com a minha personalidade.
 
 #### Feedback por Pares
-Feedback do integrante 1 — [João Pedro Theodoro de Sousa Andrade]
+
+#### Feedback do integrante 1 — [João Pedro Theodoro de Sousa Andrade]
 
 Pontos positivos:
 
@@ -402,7 +406,7 @@ Um ponto que poderia ser melhor explorado é a apresentação dos projetos do Gi
 
 Seria interessante adicionar uma descrição mais completa desse projeto no GitHub, incluindo seu objetivo, principais funcionalidades, tecnologias utilizadas e o que foi aprendido durante o desenvolvimento. Caso o projeto esteja realmente finalizado, essas informações ajudariam a demonstrar sua evolução técnica. Caso tenha sido abandonado ou esteja incompleto, seria importante atualizar o status do repositório para representar corretamente sua situação atual.
 
-Feedback do integrante 4 — [Gabriel Anjos Albuquerque]
+#### Feedback do integrante 4 — [Gabriel Anjos Albuquerque]
 
 ****Pontos positivos:**** O texto é transparente ao assumir limitações (perfil ainda sem publicações no LinkedIn, poucos repositórios), o que facilita direcionar melhorias reais. O PDI também se destaca por já prever certificações de Cloud (Oracle, AWS, Azure), indo além do básico esperado nesta fase.
 
@@ -425,6 +429,7 @@ O plano segue flexível, aberto a adaptações e novos direcionamentos à medida
 
 ##### Análise do GitHub
 ###### Identificação do Perfil
+
 ****Nome:**** Gabriel Anjos Albuquerque
 
 ****Usuário do GitHub:**** Nerd8im
@@ -570,8 +575,12 @@ Próximos passos:
 
 **------------------------------------------------------------------------**
 
-#### Análise do LinkedIn
+#### Análise do Link
+
+ ****Perfil:**** https://www.linkedin.com/in/gabriel-anjos-albuquerque/
+
 ##### Cargo-Alvo e Stack
+
 ****Cargo-alvo inicial:**** Estágio em Tecnologia da Informação
 
 ****Área de interesse:**** Tecnologia, TI, Dados e Automação
@@ -1339,6 +1348,10 @@ Próximos passos:
 **------------------------------------------------------------------------**
 
 #### Análise do LinkedIn
+
+
+ ****Perfil:**** https://www.linkedin.com/in/joaopedroandrade4/
+
 ##### Cargo-Alvo e Stack
 ****Cargo-alvo inicial:**** Estágio em Tecnologia / Análise de Dados / Dados
 
@@ -2065,6 +2078,10 @@ Próximos passos:
 
 ---
 #### Análise do LinkedIn
+
+
+ ****Perfil:**** https://www.linkedin.com/in/jo%C3%A3o-victor-de-jesus-silva/
+
 ##### Cargo-Alvo e Stack
 ****Cargo-alvo inicial:**** Estágio em Tecnologia
 
@@ -2614,6 +2631,7 @@ A análise do perfil demonstra que já existe uma base acadêmica e profissional
 
 ---
 #### Feedback
+
 ##### Feedback do integrante 1 — [João Pedro Theodoro de Sousa Andrade]
 ****Pontos positivos:****
 
@@ -2688,6 +2706,9 @@ Os destaques demonstram a aplicação prática de projetos acadêmicos e automa�
 A base de seguidores encontra-se em fase inicial de crescimento, composta principalmente por colegas da graduação, professores e profissionais da área de Tecnologia. Para que a evolução possa ser mensurada nas próximas entregas, é recomendável registrar periodicamente a quantidade de seguidores, conexões, estrelas e interações.
 
 #### Análise do LinkedIn
+
+
+ ****Perfil:**** https://www.linkedin.com/in/pettersonaguilar/
 
 ##### Cargo-Alvo e Stack
 
